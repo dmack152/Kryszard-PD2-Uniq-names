@@ -988,30 +988,30 @@ Alias[VSOCK201]: ((ne6 OR neb) UNI SOCK>0 CLSK2=1 FBR>0 STAT20>0)
 //SOUNDS EFFECTS
 //Special Items Exclusives
 ItemDisplay[neg UNI !ID !TOWN]: %SOUNDID-913%%NAME%{%NAME%}%CONTINUE% //fallen_warcry_1 - for Sacred Totem "Raaaakanishu!"
-ItemDisplay[jew UNI !ID !TOWN]: %SOUNDID-2669%%NAME%{%NAME%}%CONTINUE% //shrine_gemupgrade - for Rainbow Facet
+ItemDisplay[jew UNI !ID !TOWN]: %SOUNDID-4716%%NAME%{%NAME%}%CONTINUE% // POE - for Rainbow Facet
 ItemDisplay[(uba OR ubaa OR ubab OR ubac) !TOWN]: %SOUNDID-4609%%NAME%{%NAME%}%CONTINUE% //wussie_let_us_out_2 - for Uber Ancients
-ItemDisplay[cm3 UNI !ID !TOWN]: %SOUNDID-3918%%NAME%{%NAME%}%CONTINUE% //gheed_greeting_time_2 - for Gheed's Fortune
+ItemDisplay[cm3 UNI !ID !TOWN]: %SOUNDID-4717%%NAME%{%NAME%}%CONTINUE% //gheed_greeting_time_2 - for Gheed's Fortune
 //Runes and Larzuk Puzzlepiece
-ItemDisplay[RUNE>25 !TOWN]: %SOUNDID-4719%%NAME%{%NAME%}%CONTINUE% //cairn_success - for HRs 
-ItemDisplay[(RUNE~20-25 OR lpp) !TOWN]: %SOUNDID-4715%%NAME%{%NAME%}%CONTINUE% //item_whip - for Mid Runes an Larzuk Puzzlepiece
+ItemDisplay[RUNE>25 !TOWN]: %SOUNDID-4719%%NAME%{%NAME%}%CONTINUE% // POE TINK - for HRs 
+ItemDisplay[(RUNE~20-25 OR lpp) !TOWN]: %SOUNDID-4715%%NAME%{%NAME%}%CONTINUE% // POE CHAOS ORB SOUND - for Mid Runes an Larzuk Puzzlepiece
 //UBER SUPER RARE UNIQUES
-ItemDisplay[(PD2UBERUNI1 OR PD2UBERUNI2) !TOWN]: %SOUNDID-4719%%NAME%{%NAME%}%CONTINUE% //quest_anyasteam - for Uber Items
+ItemDisplay[(PD2UBERUNI1 OR PD2UBERUNI2) !TOWN]: %SOUNDID-4719%%NAME%{%NAME%}%CONTINUE% // POE TINK - for Uber Items
 //GG Items
-ItemDisplay[(PD2GGUNIETH1 OR PD2GGUNI1 OR LODGGUNIETH1 OR LODGGUNI1) !TOWN]: %SOUNDID-4719%%NAME%{%NAME%}%CONTINUE% //quest_hellforge_place - for GG's
+ItemDisplay[(PD2GGUNIETH1 OR PD2GGUNI1 OR LODGGUNIETH1 OR LODGGUNI1) !TOWN]: %SOUNDID-4719%%NAME%{%NAME%}%CONTINUE% // POE TINK  - for GG's
 //OK Armors
-ItemDisplay[(PD2OKUNI1 OR LODOKUNIETH1 OR LODOKUNI1 OR LODOKUNI2 OR LODOKUNI3 OR LODOKUNI4 OR LODOKUNI5 OR LODOKUNI6) !TOWN]: %SOUNDID-4718%%NAME%{%NAME%}%CONTINUE% //object_gibbet_impact - for equipment: armors
+ItemDisplay[(PD2OKUNI1 OR LODOKUNIETH1 OR LODOKUNI1 OR LODOKUNI2 OR LODOKUNI3 OR LODOKUNI4 OR LODOKUNI5 OR LODOKUNI6) !TOWN]: %SOUNDID-4715%%NAME%{%NAME%}%CONTINUE% // POE CHAOS ORB - for equipment: armors
 //OK Weapons
-ItemDisplay[(PD2OKUNIETH1 OR LODOKUNIETH2 OR PD2OKUNI2 OR LODOKUNI7) !TOWN]: %SOUNDID-4715%%NAME%{%NAME%}%CONTINUE% //object_malus - for equipment: weapons
+ItemDisplay[(PD2OKUNIETH1 OR LODOKUNIETH2 OR PD2OKUNI2 OR LODOKUNI7) !TOWN]: %SOUNDID-4715%%NAME%{%NAME%}%CONTINUE% //POE CHAOS ORB  - for equipment: weapons
 //OK Set items
-ItemDisplay[OKSETETH1 OR OKSET1]: %SOUNDID-4715%%NAME%{%NAME%}%CONTINUE% //greatermummy_unholybolt_cast - for good set items
+ItemDisplay[OKSETETH1 OR OKSET1]: %SOUNDID-4715%%NAME%{%NAME%}%CONTINUE% //POE CHAOS ORB  - for good set items
 //Super Rare Items
-ItemDisplay[(llmr OR lsvl OR rkey OR rid OR rtp OR lbox) !TOWN]: %SOUNDID-4719%%NAME%{%NAME%}%CONTINUE% //bloodraven_mist_begin - for Super Rares like Lilith Mirror
+ItemDisplay[(llmr OR lsvl OR rkey OR rid OR rtp OR lbox) !TOWN]: %SOUNDID-4719%%NAME%{%NAME%}%CONTINUE% // POE TINK - for Super Rares like Lilith Mirror
 //Rare Items
-ItemDisplay[imrn !TOWN]: %SOUNDID-4716%%NAME%{%NAME%}%CONTINUE% //bloodraven_mist_end - for Rares lbox, demonic cube etc.
+ItemDisplay[imrn !TOWN]: %SOUNDID-4716%%NAME%{%NAME%}%CONTINUE% // POE - for Rares lbox, demonic cube etc.
 //Uber Materials
-ItemDisplay[(ubtm OR dcma OR dcso OR dcbl OR dcho OR rtma OR rtmv OR rtmo OR cm2f OR rtmf OR luca OR lucb OR lucc OR lucd) !TOWN]: %SOUNDID-1123%%NAME%{%NAME%}%CONTINUE% //greatermummy_resurrect_1 - for Uber Ingredients
+ItemDisplay[(ubtm OR dcma OR dcso OR dcbl OR dcho OR rtma OR rtmv OR rtmo OR cm2f OR rtmf OR luca OR lucb OR lucc OR lucd) !TOWN]: %SOUNDID-4718%%NAME%{%NAME%}%CONTINUE% // POE MAP SOUND for Uber Ingredients
 //Unique Maps
-ItemDisplay[MAPTIER>0 !ID UNI]: %SOUNDID-35%%NAME%{%NAME%}%CONTINUE% //hellforgesmash - for unique maps
+ItemDisplay[MAPTIER>0 !ID UNI]: %SOUNDID-4718%%NAME%{%NAME%}%CONTINUE% //hellforgesmash - for unique maps // map sound
 //Spare Interesting Sounds
 //ItemDisplay[]: %SOUNDID-705%%NAME%{%NAME%}%CONTINUE% //darkwanderer_death - spare sound for... ??? used later for unknown items
 
