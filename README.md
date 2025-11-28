@@ -1,6 +1,10 @@
 # Kryszard's PD2 Loot-Filter
 **Hello PD2 Fans!**
 
+
+This is a custom version of Kryszard loot filter that shows the unique names of the items.
+This also uses POE tinks for GG items. 
+
 Welcome to **Kryszard's PD2 Loot Filter!**  
 You can know me from: [Twitch](https://twitch.tv/kryszard). Feel free to follow me there *(I'll try to stream as much as I can for you)*
 
