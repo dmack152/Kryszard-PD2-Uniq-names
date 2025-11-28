@@ -623,11 +623,9 @@ ItemDisplay[SET !ID utc]:	%GREEN%Troll Belt - Trang-Oul's Girth%CONTINUE%			//
 ItemDisplay[SET !ID xmg]:	%GREEN%Heavy Bracers - Trang-Oul's Claws%CONTINUE%		// 
 
 
-//	Kryszard's PD2 Loot Filter for Season 12: ver 12.0.1
-//
-//	twitch.tv/kryszard
-//
-//	For Casual and EndGame Players
+
+
+// -- regular kryszard filter changes. 
 
 //Define Filter Strict Levels
 ItemDisplayFilterName[]: Hide Just Trash Items
