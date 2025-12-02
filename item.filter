@@ -9,7 +9,7 @@
 ItemDisplay[yps (FILTLVL>2)]: // HIDES antidotes
 ItemDisplay[(tpfs OR tpgs OR tpcs OR tpls OR tpfm OR tpgm OR tpcm OR tplm OR tpfl OR tpgl OR tpcl OR tpll) (FILTLVL>0)]: // HIDES antidotes
 ItemDisplay[(rin) MAG (CLVL>89 AND FILTLVL>3)]: // hides MAGIC rings above character lvl 89 or filter above level 3
-
+ItemDisplay[(aqv OR aqv2 OR cqv OR cqv2) MAG !ID]: // changed it so magic arrows don't show
 //ItemDisplay[(aqv OR cqv) MAG !ID ((!AMAZON AND FILTLVL>1 AND CLVL>79) OR FILTLVL>1)]: // changed it so magic arrows don't show
 //ItemDisplay[imma (FILTLVL>2)]: // HIDES ARCANE ORBS
 //ItemDisplay[(CIRC OR SPEAR) MAG FILTLVL>3]: // hides, circs, antidotes, spears above filter level 3
