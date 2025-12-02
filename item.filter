@@ -1021,7 +1021,7 @@ ItemDisplay[(llmr OR lsvl OR rkey OR rid OR rtp OR lbox) !TOWN]: %SOUNDID-4719%%
 //Rare Items
 ItemDisplay[imrn !TOWN]: %SOUNDID-4716%%NAME%{%NAME%}%CONTINUE% // POE - for Rares lbox, demonic cube etc.
 //Uber Materials
-ItemDisplay[(ubtm OR dcma OR dcso OR dcbl OR dcho OR rtma OR rtmv OR rtmo OR cm2f OR rtmf OR luca OR wss) !TOWN]: %SOUNDID-4715%%NAME%{%NAME%}%CONTINUE% // POE MAP SOUND for Uber Ingredients
+ItemDisplay[(ubtm OR dcma OR dcso OR dcbl OR dcho OR rtma OR rtmv OR cm2f OR rtmf OR luca OR wss) !TOWN]: %SOUNDID-4715%%NAME%{%NAME%}%CONTINUE% // POE MAP SOUND for Uber Ingredients
 //ItemDisplay[(ubtm OR dcma OR dcso OR dcbl OR dcho OR rtma OR rtmv OR rtmo OR cm2f OR rtmf OR luca OR lucb OR lucc OR lucd) !TOWN]: %SOUNDID-4718%%NAME%{%NAME%}%CONTINUE% // POE MAP SOUND for Uber Ingredients
 //Unique Maps
 ItemDisplay[MAPTIER>0 !ID UNI]: %SOUNDID-4718%%NAME%{%NAME%}%CONTINUE% //hellforgesmash - for unique maps // map sound
